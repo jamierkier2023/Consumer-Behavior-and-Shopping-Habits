@@ -29,5 +29,4 @@ Sales Data: The primary dataset used for this analysis is the "coffee_shop_sales
 - SQLite - Data Analysis/ETF (extract, transfrom, and load).
 - IBM Cognos Analytics for Cognitive Analysis and Data Visualizations.
    - [Download here](https://www.ibm.com/products/cognos-analytics)
-   - 
-- Tableau - Creating Reports
+- Tableau - Creating Reports.
