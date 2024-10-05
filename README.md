@@ -34,7 +34,18 @@ Sales Data: The primary dataset used for this analysis is the "shopping_behavior
   ### Data Cleaning and Preperation
 
   In the initial data preperation phase, I performed the following tasks.
-  1. Uploaded raw csv file shopping_behavior_updated (Customer ID,Age,Gender,Item Purchased,Category,Purchase Amount (USD),Location,Size,Color,Season,Review Rating,Subscription Status,Shipping Type,Discount Applied,Promo Code Used,Previous Purchases,Payment Method,Frequency of Purchases) into SQLite performing ETF, creating 2 tidy data tables: tidy_data_table_1.csv contains these columns: customer id, discount applied, and subscription status. tidy_data_table_2.csv contains these columns: previous purchases, frequency of purchases, subscription status, and gender. The final workfile - shopping_behavior_workfile.csv contains these columns: customer id(null), gender, discount applied, promo-code used, and subscription status. The final workfile was used to create an interactice Tableau dashboard to show the relationship among variables and a composite of shopping behavior and total sales.
-  2. Analyzed raw csv file (shopping_behavior_updated.csv in IBM Cognos Analytics which further revealed a strong relationship between subscription status and gender as major units of analysis in this Cognitive Analytical approach to understanding this data on shopping behavior.
-  3. Created data Visualizations in IBM Cognos. Bar charts reveal the correlation between all variables and reveal how subscription status, gender, previous purchase amount, promotions, and discount applied reveal shopping behavior throughout all fifty states.
+   1. Uploaded raw csv file shopping_behavior_updated (Customer ID,Age,Gender,Item Purchased,Category,Purchase Amount (USD),Location,Size,Color,Season,Review Rating,Subscription Status,Shipping Type,Discount Applied,Promo Code Used,Previous Purchases,Payment Method,Frequency of Purchases) into SQLite performing ETF, creating 2 tidy data tables: tidy_data_table_1.csv contains these columns: customer id, discount applied, and subscription status. tidy_data_table_2.csv contains these columns: previous purchases, frequency of purchases, subscription status, and gender. The final workfile - shopping_behavior_workfile.csv contains these columns: customer id(null), gender, discount applied, promo-code used, and subscription status. The final workfile was used to create an interactice Tableau dashboard to show the relationship among variables and a composite of shopping behavior and total sales.
+   2. Analyzed raw csv file (shopping_behavior_updated.csv in IBM Cognos Analytics which further revealed a strong relationship between subscription status and gender as major units of analysis in this Cognitive Analytical approach to understanding this data on shopping behavior.
+   3. Created data Visualizations in IBM Cognos. Bar charts reveal the correlation between all variables and reveal how subscription status, gender, previous purchase amount, promotions, and discount applied reveal shopping behavior throughout all fifty states.
 
+### Cognitive Analytics
+
+Cognitive Analytics can help any organization make better decisions by providing insights and context based hypothesis. After examining a dataset that evaluated shopping behavior from both genders across all fifty states has revealed some essential insights that will prove to be helpful to any organizations that need to monitor customer behavior and tredns to predict future outcomes. This dataset therefore has 2 primary goals:
+
+- Predict the direction of future shopping behavior by gender throughout all fifty states.
+- Analyze how this data can be utilzed to increase retail sales of consumer products (e.g., clothing, jewelry).
+- To effectively leverage the insights from the data analysis, a marketing agency can implement targeted strategies to increase sales, particularly among the substantial demographics.
+
+### Data Analysis
+
+SQL code/features worked with:
