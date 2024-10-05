@@ -20,7 +20,7 @@ The Tableau Visualization that shows the relationship among variables and a comp
 
 ### Data Sources
 
-Sales Data: The primary dataset used for this analysis is the "coffee_shop_sales_analysis.csv" file, containing transaction id, transaction date, total bill, transaction quantity, unit price, product category, and many others. 
+Sales Data: The primary dataset used for this analysis is the "shopping_behavior_updated.csv file, containing the following variables: Customer ID,Age,Gender,Item Purchased,Category,Purchase Amount (USD),Location,Size,Color,Season,Review Rating,Subscription Status,Shipping Type,Discount Applied,Promo Code Used,Previous Purchases,Payment Method,Frequency of Purchases. This data reveals shopping behavior across al fifty states. After examining a dataset that evaluated shopping behavior from both genders across all fifty states has revealed some essential insights that will prove to be helpful to organizations that need to monitor customer behavior and trends to predict future outcomes.
 
 ### Tools
 
