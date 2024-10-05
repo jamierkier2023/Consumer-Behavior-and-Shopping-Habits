@@ -49,3 +49,37 @@ Cognitive Analytics can help any organization make better decisions by providin
 ### Data Analysis
 
 SQL code/features worked with:
+
+```sql
+SELECT
+    Gender,
+    Item_Purchased,
+    Category,
+    Size,
+    Color,
+    Season,
+    Review_Rating,
+    Subscription_Status,
+    Shipping_Type,
+    Discount_Applied,
+    Promo_Code_Used,
+    Previous_Purchases,
+    Payment_Method,
+    Frequency_of_Purchases
+FROM tmp;
+SELECT * from subscription;
+DROP TABLE tmp;
+SELECT * from subscription;
+INSERT INTO tidy(
+gender,
+discount_applied,
+promo_code_used,
+subscription_status
+)
+SELECT
+gender,
+discount_applied,
+promo_code_used,
+subscription_status
+FROM shopping_behavior;
+```
