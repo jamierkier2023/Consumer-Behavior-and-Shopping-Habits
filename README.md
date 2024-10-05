@@ -12,5 +12,5 @@ The primary goal of this dataset is to predict the direction of future shopping 
 
 ---
 
-See the Tableau Visualization below that shows the relationship among variables and a composite of Shopping behavior can be found[here](https://public.tableau.com/views/customer_shopping_behavior/Sheet1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+See the Tableau Visualization below that shows the relationship among variables and a composite of Shopping behavior can be found [here](https://public.tableau.com/views/customer_shopping_behavior/Sheet1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
