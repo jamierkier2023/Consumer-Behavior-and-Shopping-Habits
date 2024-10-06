@@ -8,7 +8,7 @@
 
 ### Project Overview
 
-The primary goal of this dataset is to predict the direction of future shopping behavior and how this data can be utilized to increase sales in the arena of retail shopping of consumer products such as clothing and jewelry. IBM Cognos was utilized as the cognitive analytic approach and settled upon subscription status, gender, previous purchase amount, promotion, and discount applied as major variables with subscription status and gender as the predominant units of analysis.
+The primary goal of this dataset is to predict the direction of future shopping behavior and how this data can be utilized to increase sales in the arena of retail shopping of consumer products such as clothing and jewelry. IBM Cognos was utilized as the cognitive analytic approach and settled upon subscription status, gender, previous purchase amount, promotion, and discount applied as major variables with subscription status and gender as the predominant units of analysis. Exploratory Analysis was the approach used to examine a dataset consisting of variables related to consumer shopping behavior across all fifty states. The purpose of this Data Analysis project is to leverage this data to increase the generalizability of real-world data to signal real-world context scenarios to the arena of retail shopping behavior. IBM Cognos Analytics was used to capture attitudes and behaviors related to retail shopping behavior to enhance decision making processes.
 
 ---
 ![Previous Purchases by Gender-2024-09-07](https://github.com/user-attachments/assets/ca0d3292-412a-4dbb-a79b-ddfb5591a830)
