@@ -89,6 +89,7 @@ When examining the relationship between item purchased and subscription status, 
 ![Previous purchases by item-2024-09-07](https://github.com/user-attachments/assets/cf072821-a1fd-4d62-89c0-3ecd9cb1f25e)
 
 The use of promo codes and its impact on purchasing behavior is also significant, with total previous purchases nearing 99,000, predominantly from non-subscribers. Interestingly, the most substantial purchasing activity occurs when neither a promo code nor a subscription is used, suggesting that customers are responsive to pricing strategies. To maximize engagement, it is recommended to consider promotional campaigns that target non-subscribers, possibly incentivizing subscription enrollment through attractive offers that can leverage the strong purchasing behavior seen in this segment. Overall, focusing on male customers, high-performing items like jewelry, and strategic promotional approaches could greatly enhance sales outcomes. See the data visualization below:
+
 ![Previous Purchases by Promo Code-2024-09-07](https://github.com/user-attachments/assets/295b3334-d3fe-4ba9-8bcc-9702695acc7d)
 
 ### Recomendations
