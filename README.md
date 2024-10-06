@@ -21,9 +21,11 @@ Sales Data: The primary dataset used for this analysis is the "shopping_behavior
 - Excel - Data Cleaning
    - [Download here](https://microsoft.com)
 - SQLite - Data Analysis/ETF (extract, transfrom, and load).
+   - [Download here](https://sqliteonline.com/)
 - IBM Cognos Analytics for Cognitive Analysis and Data Visualizations.
    - [Download here](https://www.ibm.com/products/cognos-analytics)
-- Tableau - Creating Reports.
+- Tableau Public - Creating Reports.
+   - [Download here](https://public.tableau.com/app/profile/jamie.kier1237/viz/customer_shopping_behavior/Sheet1)
 
   ### Data Cleaning and Preperation
 
@@ -97,3 +99,15 @@ The use of promo codes and its impact on purchasing behavior is also significant
 To capitalize on the insights from the data analysis, a marketing agency can develop targeted strategies aimed at increasing sales, particularly among the substantial demographic of male non-subscribers. Given that 73% of previous purchases come from customers without subscriptions, the agency should design tailored marketing campaigns that specifically highlight the value of subscription benefits. This could include exclusive offers, early access to new products, or loyalty rewards to encourage these customers to consider subscriptions. 
 
 To effectively leverage the insights from the data analysis, a marketing agency can implement targeted strategies to increase sales, particularly among the substantial demographic of male non-subscribers, who account for 68% of previous purchases. With 73% of previous purchases stemming from customers without subscriptions, the agency should develop campaigns that clearly communicate the benefits of subscribing. This could include offering exclusive discounts (e.g., 15% off the first three months) or loyalty rewards, such as points that can be redeemed for products after reaching a certain purchase threshold. In addition, the agency should prioritize promoting high-potential products, particularly jewelry, which significantly contributes to previous purchases, totaling nearly 5,000 items or 11.4% of the overall previous purchases. Jewelry items appear particularly attractive to male customers, who represent 69.5% of the total previous purchases.
+
+### Limitations
+
+Several important variables were left out of this analysis assuming that cluster analysis would be a more informative approach to see how total sales by category, gender, subscription status, promotion used, and previous purchase amount differ by state. A cognitive analysis approach can only give a somewhat less than broad view of where to take a narrower approach to the data to find specific answers to specific organizational goals. 
+
+### Refernces 
+
+1. [Essentials of Marketing Analytics](https://https://www.google.com/books/edition/_/Y1bbzQEACAAJ?hl=en), First Edition by Joseph H. Hair, Jr. & Dana E. Harrison.
+
+🙂
+
+💻
