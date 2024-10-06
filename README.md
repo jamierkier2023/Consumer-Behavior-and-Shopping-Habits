@@ -11,14 +11,7 @@
 The primary goal of this dataset is to predict the direction of future shopping behavior and how this data can be utilized to increase sales in the arena of retail shopping of consumer products such as clothing and jewelry. IBM Cognos was utilized as the cognitive analytic approach and settled upon subscription status, gender, previous purchase amount, promotion, and discount applied as major variables with subscription status and gender as the predominant units of analysis.
 
 ---
-![Previous purchases by item-2024-09-07](https://github.com/user-attachments/assets/b55fad5b-eb75-452f-833e-677fd13bca77)
 ![Previous Purchases by Gender-2024-09-07](https://github.com/user-attachments/assets/ca0d3292-412a-4dbb-a79b-ddfb5591a830)
-![Purchase Amount (USD) by Gender colored by Subscription Status-2024-09-07](https://github.com/user-attachments/assets/acbeab80-dfbc-4bf9-9497-1a45e4e9f966)
-![Purchase Amount USD by Subscription Status and Gender-2024-09-07](https://github.com/user-attachments/assets/0f6252ec-e4ef-43d5-b65c-992917952e40)
-![Previous Purchases by Promo Code-2024-09-07](https://github.com/user-attachments/assets/0d26c06a-d95a-4b3b-a116-d3f86efc5eb8)
-
-
-
 ### Data Sources
 
 Sales Data: The primary dataset used for this analysis is the "shopping_behavior_updated.csv file, containing the following variables: Customer ID,Age,Gender,Item Purchased,Category,Purchase Amount (USD),Location,Size,Color,Season,Review Rating,Subscription Status,Shipping Type,Discount Applied,Promo Code Used,Previous Purchases,Payment Method,Frequency of Purchases. This data reveals shopping behavior across al fifty states. After examining a dataset that evaluated shopping behavior from both genders across all fifty states has revealed some essential insights that will prove to be helpful to organizations that need to monitor customer behavior and trends to predict future outcomes.
