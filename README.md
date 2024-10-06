@@ -92,7 +92,7 @@ The use of promo codes and its impact on purchasing behavior is also significant
 
 ![Previous Purchases by Promo Code-2024-09-07](https://github.com/user-attachments/assets/295b3334-d3fe-4ba9-8bcc-9702695acc7d)
 
-### Recomendations
+### Recommendations
 
 To capitalize on the insights from the data analysis, a marketing agency can develop targeted strategies aimed at increasing sales, particularly among the substantial demographic of male non-subscribers. Given that 73% of previous purchases come from customers without subscriptions, the agency should design tailored marketing campaigns that specifically highlight the value of subscription benefits. This could include exclusive offers, early access to new products, or loyalty rewards to encourage these customers to consider subscriptions. 
 
