@@ -25,7 +25,7 @@ Sales Data: The primary dataset used for this analysis is the "shopping_behavior
 - IBM Cognos Analytics for Cognitive Analysis and Data Visualizations.
    - [Download here](https://www.ibm.com/products/cognos-analytics)
 - Tableau Public - Creating Reports.
-   - [Download here](https://public.tableau.com/app/profile/jamie.kier1237/viz/customer_shopping_behavior/Sheet1)
+   - [Download here](https://public.tableau.com/app/discover)
 
   ### Data Cleaning and Preperation
 
