@@ -86,3 +86,20 @@ FROM shopping_behavior;
 ```
 
 ### Results/Findings
+
+Based on the data analysis, several insights can be drawn regarding subscription status, gender, and purchasing behavior:
+
+The average number of previous purchases across all categories is 25.35, with a notable concentration among customers who do not have a subscription (73% of total). Male customers represent a significant portion of these previous purchases, accounting for 68% of the total. This suggests that a large segment of the customer base consists of male non-subscribers, highlighting an opportunity to engage this demographic more effectively. See the data visualization below:
+![Purchase Amount USD by Subscription Status and Gender-2024-09-07](https://github.com/user-attachments/assets/2184e18e-35d9-4099-a392-4eae0f885926)
+
+When examining the relationship between item purchased and subscription status, the average number of previous purchases rises to 26.39, indicating that certain items might attract repeat buyers. Jewelry, in particular, stands out, contributing significantly to previous purchases, especially among males. Moreover, the data reveals unusual purchasing patterns when specific items like blouses and jewelry are paired with a non-subscription status. This underscores the need to target marketing efforts around these items, especially for non-subscribers, to enhance customer retention and sales. See the data visalization below:
+![Previous purchases by item-2024-09-07](https://github.com/user-attachments/assets/cf072821-a1fd-4d62-89c0-3ecd9cb1f25e)
+
+The use of promo codes and its impact on purchasing behavior is also significant, with total previous purchases nearing 99,000, predominantly from non-subscribers. Interestingly, the most substantial purchasing activity occurs when neither a promo code nor a subscription is used, suggesting that customers are responsive to pricing strategies. To maximize engagement, it is recommended to consider promotional campaigns that target non-subscribers, possibly incentivizing subscription enrollment through attractive offers that can leverage the strong purchasing behavior seen in this segment. Overall, focusing on male customers, high-performing items like jewelry, and strategic promotional approaches could greatly enhance sales outcomes. See the data visualization below:
+![Previous Purchases by Promo Code-2024-09-07](https://github.com/user-attachments/assets/295b3334-d3fe-4ba9-8bcc-9702695acc7d)
+
+### Recomendations
+
+To capitalize on the insights from the data analysis, a marketing agency can develop targeted strategies aimed at increasing sales, particularly among the substantial demographic of male non-subscribers. Given that 73% of previous purchases come from customers without subscriptions, the agency should design tailored marketing campaigns that specifically highlight the value of subscription benefits. This could include exclusive offers, early access to new products, or loyalty rewards to encourage these customers to consider subscriptions. 
+
+To effectively leverage the insights from the data analysis, a marketing agency can implement targeted strategies to increase sales, particularly among the substantial demographic of male non-subscribers, who account for 68% of previous purchases. With 73% of previous purchases stemming from customers without subscriptions, the agency should develop campaigns that clearly communicate the benefits of subscribing. This could include offering exclusive discounts (e.g., 15% off the first three months) or loyalty rewards, such as points that can be redeemed for products after reaching a certain purchase threshold. In addition, the agency should prioritize promoting high-potential products, particularly jewelry, which significantly contributes to previous purchases, totaling nearly 5,000 items or 11.4% of the overall previous purchases. Jewelry items appear particularly attractive to male customers, who represent 69.5% of the total previous purchases.
