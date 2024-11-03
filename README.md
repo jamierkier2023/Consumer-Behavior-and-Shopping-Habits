@@ -105,7 +105,8 @@ To effectively leverage the insights from the data analysis, a marketing agency 
 Several important variables were left out of this analysis assuming that cluster analysis would be a more informative approach to see how total sales by category, gender, subscription status, promotion used, and previous purchase amount differ by state. A cognitive analysis approach can only give a somewhat less than broad view of where to take a narrower approach to the data to find specific answers to specific organizational goals. 
 
   ### References 
-1. [Essentials of Marketing Analytics](https://https://www.google.com/books/edition/_/Y1bbzQEACAAJ?hl=en), First Edition by Joseph H. Hair, Jr. & Dana E. Harrison.
+1. [Essentials of Marketing Analytics](https://www.google.com/books/edition/Essentials_of_Marketing_Analytics/Y1bbzQEACAAJ?hl=en), First Edition by Joseph H. Hair, Jr. & 
+   Dana E. Harrison.
 
 🙂
 💻
